@@ -11,7 +11,6 @@ exports.createData = (req, res) => {
     });
     return;
   }
-  
 
   // Create a Tutorial
   const tutorial = {
